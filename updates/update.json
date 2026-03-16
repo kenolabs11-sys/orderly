@@ -1,0 +1,19 @@
+{
+  "productName": "Orderly File Organizer",
+  "appName": "Orderly",
+  "channel": "stable",
+  "version": "2.0.0",
+  "releaseDate": "2026-03-16",
+  "updateMode": "manual",
+  "mandatory": false,
+  "downloadUrl": "https://github.com/kenolabs/orderly/releases/latest",
+  "releaseNotesUrl": "https://github.com/kenolabs/orderly/releases",
+  "message": "A new version of Orderly is available.",
+  "notes": [
+    "Preview-first file organization",
+    "Explorer context menu integration",
+    "Profiles, watching, and auto-apply",
+    "Diagnostics and report submission",
+    "Expanded file category support"
+  ]
+}
