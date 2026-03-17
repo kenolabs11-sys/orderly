@@ -1,4 +1,4 @@
-# Orderly File Organizer
+# Orderly — File Organizer by KenoLabs
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Release](https://img.shields.io/github/v/release/kenolabs/orderly)
