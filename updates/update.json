@@ -1,0 +1,21 @@
+{
+  "productName": "Orderly Free Beta",
+  "appName": "Orderly",
+  "channel": "free-beta",
+  "version": "2.1.0",
+  "releaseDateUtc": "2026-08-30T00:00:00.000Z",
+  "updateMode": "manual",
+  "mandatory": false,
+  "downloadUrl": "https://github.com/kenolabs11-sys/orderly/releases",
+  "releaseNotesUrl": "https://github.com/kenolabs11-sys/orderly/releases",
+  "message": "Orderly Free Beta 2.1.0 is available from GitHub Releases.",
+  "notes": [
+    "Preview-first file organization",
+    "Five built-in Free Beta categories",
+    "Profiles, Preview, Run, local History, and Undo",
+    "Watch and Auto-apply for one profile",
+    "GitHub Release update downloads",
+    "Short in-app Free Beta feedback"
+  ]
+}
+
