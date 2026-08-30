@@ -1,0 +1,27 @@
+# Orderly Free Beta - License
+
+Copyright (c) 2026 KenoLabs. All rights reserved.
+
+Orderly is proprietary software provided free of charge during its Free Beta
+period for personal, non-commercial testing and feedback purposes.
+
+## You may
+
+- Download and use Orderly for personal file organization on your own machine.
+- Share feedback through the in-app feedback form or GitHub Issues.
+
+## You may not
+
+- Redistribute, resell, or repackage the installer or any part of the application.
+- Reverse engineer, decompile, or modify the application.
+- Use Orderly in a commercial or enterprise deployment during the Free Beta period.
+
+## No warranty
+
+This software is provided "as is", without warranty of any kind, express or
+implied. Features, availability, and terms may change at any time during the
+Free Beta period.
+
+## Contact
+
+For questions, see `SUPPORT.md` or contact contact@kenolabs.dev.
