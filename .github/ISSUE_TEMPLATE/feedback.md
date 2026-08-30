@@ -1,0 +1,21 @@
+---
+name: Feedback
+about: Report a bug, share confusion, or suggest a feature for Orderly Free Beta
+title: ""
+labels: []
+---
+
+## Type
+
+Choose one:
+
+- Bug
+- Something confusing
+- Feature idea
+- Other
+
+## Message
+
+Write a short description of what happened or what you expected.
+
+Do not include private file paths, file names, tokens, account details, or personal data.
